@@ -1,0 +1,16 @@
+{
+    "name": "LiteComponent.Editor",
+    "references": [
+        "GUID:51791c108ab140044acf9994981ecc90"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
